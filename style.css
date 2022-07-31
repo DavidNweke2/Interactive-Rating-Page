@@ -16,18 +16,14 @@ body{
 .rating{
   max-width: 40vh;
   border: 2px solid blue;
-  border-radius: 15px;
+  border-radius: 20px;
 }
 .interact-rating{
   padding: 20px;
 }
-/* .star-img{
+.star-img{
   border: 1px solid black;
   border-radius: 50%;
   width: fit-content;
-  height: fit-content; */
-/* } */
-svg{
-  border: 1px solid red;
-  border-radius: 50%;
+  height: fit-content;
 }
