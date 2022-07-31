@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+body, html{
+  height: 100%;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rating{
+  max-width: 40vh;
+  border: 2px solid blue;
+  border-radius: 15px;
+}
+.interact-rating{
+  padding: 20px;
+}
+/* .star-img{
+  border: 1px solid black;
+  border-radius: 50%;
+  width: fit-content;
+  height: fit-content; */
+/* } */
+svg{
+  border: 1px solid red;
+  border-radius: 50%;
+}
